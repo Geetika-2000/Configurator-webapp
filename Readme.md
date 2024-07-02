@@ -1,1 +1,2 @@
-Configurator webapp
+This is Configurator webapp
+
